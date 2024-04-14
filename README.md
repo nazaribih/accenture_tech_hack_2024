@@ -2,4 +2,4 @@
 Accenture Technology Festival Hackathon 2024
 
 
-## Radosław Kasprzak, Patryk Guba, Nazarii Bihniak
+### Nazarii Bihniak, Radosław Kasprzak
